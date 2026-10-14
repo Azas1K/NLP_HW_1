@@ -1,0 +1,6 @@
+*
+!Dockerfile
+!requirements.txt
+!main.py
+!detector.py
+!law_aliases.json
